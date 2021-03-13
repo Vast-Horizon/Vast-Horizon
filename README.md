@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently studying at McMaster University (First-Year automation Eng tech)...
 - 🌱 I’m currently learning ...C++, Java, python
