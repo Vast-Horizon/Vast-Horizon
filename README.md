@@ -3,11 +3,9 @@
 
 
 - 🔭 I’m currently studying at McMaster University (Level two automation Eng tech)...
-- 🌱 I’m currently learning ...C++, Java, python
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 🌱 I’m currently learning ...C++, Java, python, MATLAB
+- 💬 Ask me about Gamry, MATLAB Compiler
 - 📫 How to reach me: ... Here is my linkedin  www.linkedin.com/in/fiavi-y-0263a71b7
-- 😄 Pronouns: ...C++,Java, Robotic, Ai
-- ⚡ Fun fact: ... Love nature. Traveling and hiking are two of my biggest hobbies (That's one of the reason I become an international student)
+- 😄 Pronouns: ...C++,Python, Robotic, Ai
+- ⚡ Fun fact: ... Love nature. Traveling and hiking are two of my biggest hobbies (That's one of the reason I became an international student)
 -->
